@@ -1,0 +1,21 @@
+product_id,product_name,reorder_count,total_reorder_quantity
+P012,Scientific Calculator,141,13017.0
+P003,Bluetooth Speaker,141,11846.0
+P018,Electric Kettle,141,11141.0
+P009,Notebook,74,9945.0
+P011,Desk Organizer,139,9379.0
+P005,LED Desk Lamp,137,7969.0
+P007,Storage Box Set,138,7473.0
+P014,Face Wash,91,7113.0
+P001,Wireless Mouse,111,7029.0
+P004,Phone Charger,99,6795.0
+P017,Earphones,115,6734.0
+P016,Body Lotion,84,5827.0
+P002,USB Keyboard,113,5800.0
+P020,Toothbrush Pack,60,5025.0
+P010,Ballpoint Pen Pack,61,4272.0
+P013,Shampoo,55,3784.0
+P006,Water Bottle,52,3063.0
+P019,Sticky Notes,47,2771.0
+P008,Coffee Mug,48,2110.0
+P015,Hand Sanitizer,24,793.0

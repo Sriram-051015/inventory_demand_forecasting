@@ -1,0 +1,601 @@
+date,product_id,product_name,category,predicted_demand,lead_time_days,reorder_point
+2026-01-01,P010,Ballpoint Pen Pack,Stationery,55.22,4,100
+2026-01-02,P010,Ballpoint Pen Pack,Stationery,55.3,4,100
+2026-01-03,P010,Ballpoint Pen Pack,Stationery,55.06,4,100
+2026-01-04,P010,Ballpoint Pen Pack,Stationery,55.36,4,100
+2026-01-05,P010,Ballpoint Pen Pack,Stationery,52.28,4,100
+2026-01-06,P010,Ballpoint Pen Pack,Stationery,53.67,4,100
+2026-01-07,P010,Ballpoint Pen Pack,Stationery,53.94,4,100
+2026-01-08,P010,Ballpoint Pen Pack,Stationery,54.08,4,100
+2026-01-09,P010,Ballpoint Pen Pack,Stationery,53.82,4,100
+2026-01-10,P010,Ballpoint Pen Pack,Stationery,54.07,4,100
+2026-01-11,P010,Ballpoint Pen Pack,Stationery,54.38,4,100
+2026-01-12,P010,Ballpoint Pen Pack,Stationery,51.78,4,100
+2026-01-13,P010,Ballpoint Pen Pack,Stationery,52.72,4,100
+2026-01-14,P010,Ballpoint Pen Pack,Stationery,52.8,4,100
+2026-01-15,P010,Ballpoint Pen Pack,Stationery,53.1,4,100
+2026-01-16,P010,Ballpoint Pen Pack,Stationery,53.41,4,100
+2026-01-17,P010,Ballpoint Pen Pack,Stationery,54.12,4,100
+2026-01-18,P010,Ballpoint Pen Pack,Stationery,54.26,4,100
+2026-01-19,P010,Ballpoint Pen Pack,Stationery,52.08,4,100
+2026-01-20,P010,Ballpoint Pen Pack,Stationery,52.66,4,100
+2026-01-21,P010,Ballpoint Pen Pack,Stationery,52.32,4,100
+2026-01-22,P010,Ballpoint Pen Pack,Stationery,53.1,4,100
+2026-01-23,P010,Ballpoint Pen Pack,Stationery,53.38,4,100
+2026-01-24,P010,Ballpoint Pen Pack,Stationery,53.96,4,100
+2026-01-25,P010,Ballpoint Pen Pack,Stationery,54.06,4,100
+2026-01-26,P010,Ballpoint Pen Pack,Stationery,51.7,4,100
+2026-01-27,P010,Ballpoint Pen Pack,Stationery,52.49,4,100
+2026-01-28,P010,Ballpoint Pen Pack,Stationery,52.45,4,100
+2026-01-29,P010,Ballpoint Pen Pack,Stationery,52.6,4,100
+2026-01-30,P010,Ballpoint Pen Pack,Stationery,53.19,4,100
+2026-01-01,P018,Electric Kettle,Home & Kitchen,10.7,14,20
+2026-01-02,P018,Electric Kettle,Home & Kitchen,10.67,14,20
+2026-01-03,P018,Electric Kettle,Home & Kitchen,10.84,14,20
+2026-01-04,P018,Electric Kettle,Home & Kitchen,10.86,14,20
+2026-01-05,P018,Electric Kettle,Home & Kitchen,10.67,14,20
+2026-01-06,P018,Electric Kettle,Home & Kitchen,10.62,14,20
+2026-01-07,P018,Electric Kettle,Home & Kitchen,10.73,14,20
+2026-01-08,P018,Electric Kettle,Home & Kitchen,10.84,14,20
+2026-01-09,P018,Electric Kettle,Home & Kitchen,10.92,14,20
+2026-01-10,P018,Electric Kettle,Home & Kitchen,11.02,14,20
+2026-01-11,P018,Electric Kettle,Home & Kitchen,10.96,14,20
+2026-01-12,P018,Electric Kettle,Home & Kitchen,10.67,14,20
+2026-01-13,P018,Electric Kettle,Home & Kitchen,10.47,14,20
+2026-01-14,P018,Electric Kettle,Home & Kitchen,10.7,14,20
+2026-01-15,P018,Electric Kettle,Home & Kitchen,10.48,14,20
+2026-01-16,P018,Electric Kettle,Home & Kitchen,10.48,14,20
+2026-01-17,P018,Electric Kettle,Home & Kitchen,10.73,14,20
+2026-01-18,P018,Electric Kettle,Home & Kitchen,10.75,14,20
+2026-01-19,P018,Electric Kettle,Home & Kitchen,10.57,14,20
+2026-01-20,P018,Electric Kettle,Home & Kitchen,10.57,14,20
+2026-01-21,P018,Electric Kettle,Home & Kitchen,10.64,14,20
+2026-01-22,P018,Electric Kettle,Home & Kitchen,10.4,14,20
+2026-01-23,P018,Electric Kettle,Home & Kitchen,10.37,14,20
+2026-01-24,P018,Electric Kettle,Home & Kitchen,10.58,14,20
+2026-01-25,P018,Electric Kettle,Home & Kitchen,10.54,14,20
+2026-01-26,P018,Electric Kettle,Home & Kitchen,10.38,14,20
+2026-01-27,P018,Electric Kettle,Home & Kitchen,10.3,14,20
+2026-01-28,P018,Electric Kettle,Home & Kitchen,10.41,14,20
+2026-01-29,P018,Electric Kettle,Home & Kitchen,10.32,14,20
+2026-01-30,P018,Electric Kettle,Home & Kitchen,10.36,14,20
+2026-01-01,P001,Wireless Mouse,Electronics,22.52,7,50
+2026-01-02,P001,Wireless Mouse,Electronics,22.92,7,50
+2026-01-03,P001,Wireless Mouse,Electronics,24.65,7,50
+2026-01-04,P001,Wireless Mouse,Electronics,26.22,7,50
+2026-01-05,P001,Wireless Mouse,Electronics,22.28,7,50
+2026-01-06,P001,Wireless Mouse,Electronics,22.32,7,50
+2026-01-07,P001,Wireless Mouse,Electronics,22.7,7,50
+2026-01-08,P001,Wireless Mouse,Electronics,22.81,7,50
+2026-01-09,P001,Wireless Mouse,Electronics,23.14,7,50
+2026-01-10,P001,Wireless Mouse,Electronics,24.81,7,50
+2026-01-11,P001,Wireless Mouse,Electronics,25.92,7,50
+2026-01-12,P001,Wireless Mouse,Electronics,22.79,7,50
+2026-01-13,P001,Wireless Mouse,Electronics,22.86,7,50
+2026-01-14,P001,Wireless Mouse,Electronics,22.96,7,50
+2026-01-15,P001,Wireless Mouse,Electronics,22.98,7,50
+2026-01-16,P001,Wireless Mouse,Electronics,23.26,7,50
+2026-01-17,P001,Wireless Mouse,Electronics,24.5,7,50
+2026-01-18,P001,Wireless Mouse,Electronics,25.54,7,50
+2026-01-19,P001,Wireless Mouse,Electronics,22.72,7,50
+2026-01-20,P001,Wireless Mouse,Electronics,22.74,7,50
+2026-01-21,P001,Wireless Mouse,Electronics,22.78,7,50
+2026-01-22,P001,Wireless Mouse,Electronics,22.96,7,50
+2026-01-23,P001,Wireless Mouse,Electronics,23.03,7,50
+2026-01-24,P001,Wireless Mouse,Electronics,24.18,7,50
+2026-01-25,P001,Wireless Mouse,Electronics,25.34,7,50
+2026-01-26,P001,Wireless Mouse,Electronics,22.58,7,50
+2026-01-27,P001,Wireless Mouse,Electronics,22.51,7,50
+2026-01-28,P001,Wireless Mouse,Electronics,22.58,7,50
+2026-01-29,P001,Wireless Mouse,Electronics,22.59,7,50
+2026-01-30,P001,Wireless Mouse,Electronics,23.3,7,50
+2026-01-01,P002,USB Keyboard,Electronics,13.08,10,40
+2026-01-02,P002,USB Keyboard,Electronics,12.8,10,40
+2026-01-03,P002,USB Keyboard,Electronics,13.84,10,40
+2026-01-04,P002,USB Keyboard,Electronics,14.12,10,40
+2026-01-05,P002,USB Keyboard,Electronics,13.66,10,40
+2026-01-06,P002,USB Keyboard,Electronics,13.26,10,40
+2026-01-07,P002,USB Keyboard,Electronics,13.2,10,40
+2026-01-08,P002,USB Keyboard,Electronics,12.99,10,40
+2026-01-09,P002,USB Keyboard,Electronics,13.0,10,40
+2026-01-10,P002,USB Keyboard,Electronics,14.18,10,40
+2026-01-11,P002,USB Keyboard,Electronics,14.47,10,40
+2026-01-12,P002,USB Keyboard,Electronics,13.22,10,40
+2026-01-13,P002,USB Keyboard,Electronics,13.19,10,40
+2026-01-14,P002,USB Keyboard,Electronics,13.0,10,40
+2026-01-15,P002,USB Keyboard,Electronics,12.93,10,40
+2026-01-16,P002,USB Keyboard,Electronics,12.96,10,40
+2026-01-17,P002,USB Keyboard,Electronics,14.2,10,40
+2026-01-18,P002,USB Keyboard,Electronics,14.34,10,40
+2026-01-19,P002,USB Keyboard,Electronics,13.2,10,40
+2026-01-20,P002,USB Keyboard,Electronics,13.24,10,40
+2026-01-21,P002,USB Keyboard,Electronics,13.04,10,40
+2026-01-22,P002,USB Keyboard,Electronics,12.97,10,40
+2026-01-23,P002,USB Keyboard,Electronics,13.07,10,40
+2026-01-24,P002,USB Keyboard,Electronics,14.08,10,40
+2026-01-25,P002,USB Keyboard,Electronics,14.24,10,40
+2026-01-26,P002,USB Keyboard,Electronics,13.28,10,40
+2026-01-27,P002,USB Keyboard,Electronics,13.22,10,40
+2026-01-28,P002,USB Keyboard,Electronics,13.06,10,40
+2026-01-29,P002,USB Keyboard,Electronics,12.99,10,40
+2026-01-30,P002,USB Keyboard,Electronics,13.23,10,40
+2026-01-01,P003,Bluetooth Speaker,Electronics,11.32,14,25
+2026-01-02,P003,Bluetooth Speaker,Electronics,11.24,14,25
+2026-01-03,P003,Bluetooth Speaker,Electronics,11.68,14,25
+2026-01-04,P003,Bluetooth Speaker,Electronics,11.69,14,25
+2026-01-05,P003,Bluetooth Speaker,Electronics,11.26,14,25
+2026-01-06,P003,Bluetooth Speaker,Electronics,11.16,14,25
+2026-01-07,P003,Bluetooth Speaker,Electronics,11.1,14,25
+2026-01-08,P003,Bluetooth Speaker,Electronics,11.1,14,25
+2026-01-09,P003,Bluetooth Speaker,Electronics,10.99,14,25
+2026-01-10,P003,Bluetooth Speaker,Electronics,11.54,14,25
+2026-01-11,P003,Bluetooth Speaker,Electronics,11.4,14,25
+2026-01-12,P003,Bluetooth Speaker,Electronics,10.98,14,25
+2026-01-13,P003,Bluetooth Speaker,Electronics,10.9,14,25
+2026-01-14,P003,Bluetooth Speaker,Electronics,11.01,14,25
+2026-01-15,P003,Bluetooth Speaker,Electronics,10.63,14,25
+2026-01-16,P003,Bluetooth Speaker,Electronics,10.5,14,25
+2026-01-17,P003,Bluetooth Speaker,Electronics,11.02,14,25
+2026-01-18,P003,Bluetooth Speaker,Electronics,10.96,14,25
+2026-01-19,P003,Bluetooth Speaker,Electronics,10.5,14,25
+2026-01-20,P003,Bluetooth Speaker,Electronics,10.52,14,25
+2026-01-21,P003,Bluetooth Speaker,Electronics,10.61,14,25
+2026-01-22,P003,Bluetooth Speaker,Electronics,10.51,14,25
+2026-01-23,P003,Bluetooth Speaker,Electronics,10.44,14,25
+2026-01-24,P003,Bluetooth Speaker,Electronics,10.92,14,25
+2026-01-25,P003,Bluetooth Speaker,Electronics,10.89,14,25
+2026-01-26,P003,Bluetooth Speaker,Electronics,10.42,14,25
+2026-01-27,P003,Bluetooth Speaker,Electronics,10.47,14,25
+2026-01-28,P003,Bluetooth Speaker,Electronics,10.59,14,25
+2026-01-29,P003,Bluetooth Speaker,Electronics,10.56,14,25
+2026-01-30,P003,Bluetooth Speaker,Electronics,10.52,14,25
+2026-01-01,P004,Phone Charger,Electronics,27.75,7,60
+2026-01-02,P004,Phone Charger,Electronics,27.8,7,60
+2026-01-03,P004,Phone Charger,Electronics,28.73,7,60
+2026-01-04,P004,Phone Charger,Electronics,29.33,7,60
+2026-01-05,P004,Phone Charger,Electronics,27.42,7,60
+2026-01-06,P004,Phone Charger,Electronics,27.2,7,60
+2026-01-07,P004,Phone Charger,Electronics,27.62,7,60
+2026-01-08,P004,Phone Charger,Electronics,27.71,7,60
+2026-01-09,P004,Phone Charger,Electronics,27.74,7,60
+2026-01-10,P004,Phone Charger,Electronics,28.58,7,60
+2026-01-11,P004,Phone Charger,Electronics,28.36,7,60
+2026-01-12,P004,Phone Charger,Electronics,27.82,7,60
+2026-01-13,P004,Phone Charger,Electronics,27.7,7,60
+2026-01-14,P004,Phone Charger,Electronics,27.65,7,60
+2026-01-15,P004,Phone Charger,Electronics,27.59,7,60
+2026-01-16,P004,Phone Charger,Electronics,27.35,7,60
+2026-01-17,P004,Phone Charger,Electronics,28.16,7,60
+2026-01-18,P004,Phone Charger,Electronics,28.0,7,60
+2026-01-19,P004,Phone Charger,Electronics,27.36,7,60
+2026-01-20,P004,Phone Charger,Electronics,27.22,7,60
+2026-01-21,P004,Phone Charger,Electronics,27.35,7,60
+2026-01-22,P004,Phone Charger,Electronics,27.15,7,60
+2026-01-23,P004,Phone Charger,Electronics,27.14,7,60
+2026-01-24,P004,Phone Charger,Electronics,28.25,7,60
+2026-01-25,P004,Phone Charger,Electronics,28.23,7,60
+2026-01-26,P004,Phone Charger,Electronics,27.39,7,60
+2026-01-27,P004,Phone Charger,Electronics,26.83,7,60
+2026-01-28,P004,Phone Charger,Electronics,26.54,7,60
+2026-01-29,P004,Phone Charger,Electronics,26.14,7,60
+2026-01-30,P004,Phone Charger,Electronics,26.12,7,60
+2026-01-01,P005,LED Desk Lamp,Home & Kitchen,14.93,10,30
+2026-01-02,P005,LED Desk Lamp,Home & Kitchen,14.62,10,30
+2026-01-03,P005,LED Desk Lamp,Home & Kitchen,14.26,10,30
+2026-01-04,P005,LED Desk Lamp,Home & Kitchen,14.11,10,30
+2026-01-05,P005,LED Desk Lamp,Home & Kitchen,14.61,10,30
+2026-01-06,P005,LED Desk Lamp,Home & Kitchen,14.05,10,30
+2026-01-07,P005,LED Desk Lamp,Home & Kitchen,13.78,10,30
+2026-01-08,P005,LED Desk Lamp,Home & Kitchen,13.93,10,30
+2026-01-09,P005,LED Desk Lamp,Home & Kitchen,13.94,10,30
+2026-01-10,P005,LED Desk Lamp,Home & Kitchen,14.12,10,30
+2026-01-11,P005,LED Desk Lamp,Home & Kitchen,14.13,10,30
+2026-01-12,P005,LED Desk Lamp,Home & Kitchen,14.23,10,30
+2026-01-13,P005,LED Desk Lamp,Home & Kitchen,13.92,10,30
+2026-01-14,P005,LED Desk Lamp,Home & Kitchen,13.77,10,30
+2026-01-15,P005,LED Desk Lamp,Home & Kitchen,13.96,10,30
+2026-01-16,P005,LED Desk Lamp,Home & Kitchen,14.04,10,30
+2026-01-17,P005,LED Desk Lamp,Home & Kitchen,14.18,10,30
+2026-01-18,P005,LED Desk Lamp,Home & Kitchen,14.16,10,30
+2026-01-19,P005,LED Desk Lamp,Home & Kitchen,13.96,10,30
+2026-01-20,P005,LED Desk Lamp,Home & Kitchen,13.59,10,30
+2026-01-21,P005,LED Desk Lamp,Home & Kitchen,13.52,10,30
+2026-01-22,P005,LED Desk Lamp,Home & Kitchen,13.73,10,30
+2026-01-23,P005,LED Desk Lamp,Home & Kitchen,13.91,10,30
+2026-01-24,P005,LED Desk Lamp,Home & Kitchen,14.04,10,30
+2026-01-25,P005,LED Desk Lamp,Home & Kitchen,14.06,10,30
+2026-01-26,P005,LED Desk Lamp,Home & Kitchen,13.77,10,30
+2026-01-27,P005,LED Desk Lamp,Home & Kitchen,13.46,10,30
+2026-01-28,P005,LED Desk Lamp,Home & Kitchen,13.42,10,30
+2026-01-29,P005,LED Desk Lamp,Home & Kitchen,13.68,10,30
+2026-01-30,P005,LED Desk Lamp,Home & Kitchen,14.44,10,30
+2026-01-01,P006,Water Bottle,Home & Kitchen,40.38,5,70
+2026-01-02,P006,Water Bottle,Home & Kitchen,39.62,5,70
+2026-01-03,P006,Water Bottle,Home & Kitchen,38.24,5,70
+2026-01-04,P006,Water Bottle,Home & Kitchen,37.27,5,70
+2026-01-05,P006,Water Bottle,Home & Kitchen,36.63,5,70
+2026-01-06,P006,Water Bottle,Home & Kitchen,37.49,5,70
+2026-01-07,P006,Water Bottle,Home & Kitchen,37.72,5,70
+2026-01-08,P006,Water Bottle,Home & Kitchen,38.1,5,70
+2026-01-09,P006,Water Bottle,Home & Kitchen,38.04,5,70
+2026-01-10,P006,Water Bottle,Home & Kitchen,37.03,5,70
+2026-01-11,P006,Water Bottle,Home & Kitchen,36.46,5,70
+2026-01-12,P006,Water Bottle,Home & Kitchen,37.29,5,70
+2026-01-13,P006,Water Bottle,Home & Kitchen,37.84,5,70
+2026-01-14,P006,Water Bottle,Home & Kitchen,37.73,5,70
+2026-01-15,P006,Water Bottle,Home & Kitchen,37.94,5,70
+2026-01-16,P006,Water Bottle,Home & Kitchen,37.56,5,70
+2026-01-17,P006,Water Bottle,Home & Kitchen,36.3,5,70
+2026-01-18,P006,Water Bottle,Home & Kitchen,36.24,5,70
+2026-01-19,P006,Water Bottle,Home & Kitchen,34.74,5,70
+2026-01-20,P006,Water Bottle,Home & Kitchen,35.14,5,70
+2026-01-21,P006,Water Bottle,Home & Kitchen,35.62,5,70
+2026-01-22,P006,Water Bottle,Home & Kitchen,36.4,5,70
+2026-01-23,P006,Water Bottle,Home & Kitchen,36.37,5,70
+2026-01-24,P006,Water Bottle,Home & Kitchen,35.9,5,70
+2026-01-25,P006,Water Bottle,Home & Kitchen,35.82,5,70
+2026-01-26,P006,Water Bottle,Home & Kitchen,34.02,5,70
+2026-01-27,P006,Water Bottle,Home & Kitchen,34.38,5,70
+2026-01-28,P006,Water Bottle,Home & Kitchen,35.06,5,70
+2026-01-29,P006,Water Bottle,Home & Kitchen,36.15,5,70
+2026-01-30,P006,Water Bottle,Home & Kitchen,36.31,5,70
+2026-01-01,P007,Storage Box Set,Home & Kitchen,11.3,12,35
+2026-01-02,P007,Storage Box Set,Home & Kitchen,11.0,12,35
+2026-01-03,P007,Storage Box Set,Home & Kitchen,11.54,12,35
+2026-01-04,P007,Storage Box Set,Home & Kitchen,11.51,12,35
+2026-01-05,P007,Storage Box Set,Home & Kitchen,11.03,12,35
+2026-01-06,P007,Storage Box Set,Home & Kitchen,11.09,12,35
+2026-01-07,P007,Storage Box Set,Home & Kitchen,11.07,12,35
+2026-01-08,P007,Storage Box Set,Home & Kitchen,11.03,12,35
+2026-01-09,P007,Storage Box Set,Home & Kitchen,11.04,12,35
+2026-01-10,P007,Storage Box Set,Home & Kitchen,11.49,12,35
+2026-01-11,P007,Storage Box Set,Home & Kitchen,11.56,12,35
+2026-01-12,P007,Storage Box Set,Home & Kitchen,11.28,12,35
+2026-01-13,P007,Storage Box Set,Home & Kitchen,11.34,12,35
+2026-01-14,P007,Storage Box Set,Home & Kitchen,11.31,12,35
+2026-01-15,P007,Storage Box Set,Home & Kitchen,11.16,12,35
+2026-01-16,P007,Storage Box Set,Home & Kitchen,11.08,12,35
+2026-01-17,P007,Storage Box Set,Home & Kitchen,11.6,12,35
+2026-01-18,P007,Storage Box Set,Home & Kitchen,11.75,12,35
+2026-01-19,P007,Storage Box Set,Home & Kitchen,11.36,12,35
+2026-01-20,P007,Storage Box Set,Home & Kitchen,11.37,12,35
+2026-01-21,P007,Storage Box Set,Home & Kitchen,11.37,12,35
+2026-01-22,P007,Storage Box Set,Home & Kitchen,11.38,12,35
+2026-01-23,P007,Storage Box Set,Home & Kitchen,11.48,12,35
+2026-01-24,P007,Storage Box Set,Home & Kitchen,12.16,12,35
+2026-01-25,P007,Storage Box Set,Home & Kitchen,12.18,12,35
+2026-01-26,P007,Storage Box Set,Home & Kitchen,11.52,12,35
+2026-01-27,P007,Storage Box Set,Home & Kitchen,11.56,12,35
+2026-01-28,P007,Storage Box Set,Home & Kitchen,11.58,12,35
+2026-01-29,P007,Storage Box Set,Home & Kitchen,11.71,12,35
+2026-01-30,P007,Storage Box Set,Home & Kitchen,11.84,12,35
+2026-01-01,P019,Sticky Notes,Stationery,50.57,4,110
+2026-01-02,P019,Sticky Notes,Stationery,50.54,4,110
+2026-01-03,P019,Sticky Notes,Stationery,50.73,4,110
+2026-01-04,P019,Sticky Notes,Stationery,51.82,4,110
+2026-01-05,P019,Sticky Notes,Stationery,50.54,4,110
+2026-01-06,P019,Sticky Notes,Stationery,50.8,4,110
+2026-01-07,P019,Sticky Notes,Stationery,50.51,4,110
+2026-01-08,P019,Sticky Notes,Stationery,50.57,4,110
+2026-01-09,P019,Sticky Notes,Stationery,50.65,4,110
+2026-01-10,P019,Sticky Notes,Stationery,50.6,4,110
+2026-01-11,P019,Sticky Notes,Stationery,51.46,4,110
+2026-01-12,P019,Sticky Notes,Stationery,50.44,4,110
+2026-01-13,P019,Sticky Notes,Stationery,50.62,4,110
+2026-01-14,P019,Sticky Notes,Stationery,50.22,4,110
+2026-01-15,P019,Sticky Notes,Stationery,50.68,4,110
+2026-01-16,P019,Sticky Notes,Stationery,50.64,4,110
+2026-01-17,P019,Sticky Notes,Stationery,50.54,4,110
+2026-01-18,P019,Sticky Notes,Stationery,51.22,4,110
+2026-01-19,P019,Sticky Notes,Stationery,50.46,4,110
+2026-01-20,P019,Sticky Notes,Stationery,51.25,4,110
+2026-01-21,P019,Sticky Notes,Stationery,50.68,4,110
+2026-01-22,P019,Sticky Notes,Stationery,50.62,4,110
+2026-01-23,P019,Sticky Notes,Stationery,49.84,4,110
+2026-01-24,P019,Sticky Notes,Stationery,50.11,4,110
+2026-01-25,P019,Sticky Notes,Stationery,50.78,4,110
+2026-01-26,P019,Sticky Notes,Stationery,48.93,4,110
+2026-01-27,P019,Sticky Notes,Stationery,49.64,4,110
+2026-01-28,P019,Sticky Notes,Stationery,49.2,4,110
+2026-01-29,P019,Sticky Notes,Stationery,49.2,4,110
+2026-01-30,P019,Sticky Notes,Stationery,48.68,4,110
+2026-01-01,P008,Coffee Mug,Home & Kitchen,19.64,6,55
+2026-01-02,P008,Coffee Mug,Home & Kitchen,19.18,6,55
+2026-01-03,P008,Coffee Mug,Home & Kitchen,23.42,6,55
+2026-01-04,P008,Coffee Mug,Home & Kitchen,23.34,6,55
+2026-01-05,P008,Coffee Mug,Home & Kitchen,19.04,6,55
+2026-01-06,P008,Coffee Mug,Home & Kitchen,18.88,6,55
+2026-01-07,P008,Coffee Mug,Home & Kitchen,19.08,6,55
+2026-01-08,P008,Coffee Mug,Home & Kitchen,19.18,6,55
+2026-01-09,P008,Coffee Mug,Home & Kitchen,19.13,6,55
+2026-01-10,P008,Coffee Mug,Home & Kitchen,23.1,6,55
+2026-01-11,P008,Coffee Mug,Home & Kitchen,23.46,6,55
+2026-01-12,P008,Coffee Mug,Home & Kitchen,20.34,6,55
+2026-01-13,P008,Coffee Mug,Home & Kitchen,20.07,6,55
+2026-01-14,P008,Coffee Mug,Home & Kitchen,20.26,6,55
+2026-01-15,P008,Coffee Mug,Home & Kitchen,20.28,6,55
+2026-01-16,P008,Coffee Mug,Home & Kitchen,20.09,6,55
+2026-01-17,P008,Coffee Mug,Home & Kitchen,23.29,6,55
+2026-01-18,P008,Coffee Mug,Home & Kitchen,23.6,6,55
+2026-01-19,P008,Coffee Mug,Home & Kitchen,19.86,6,55
+2026-01-20,P008,Coffee Mug,Home & Kitchen,19.66,6,55
+2026-01-21,P008,Coffee Mug,Home & Kitchen,19.74,6,55
+2026-01-22,P008,Coffee Mug,Home & Kitchen,19.65,6,55
+2026-01-23,P008,Coffee Mug,Home & Kitchen,19.66,6,55
+2026-01-24,P008,Coffee Mug,Home & Kitchen,23.2,6,55
+2026-01-25,P008,Coffee Mug,Home & Kitchen,23.2,6,55
+2026-01-26,P008,Coffee Mug,Home & Kitchen,19.87,6,55
+2026-01-27,P008,Coffee Mug,Home & Kitchen,19.76,6,55
+2026-01-28,P008,Coffee Mug,Home & Kitchen,19.56,6,55
+2026-01-29,P008,Coffee Mug,Home & Kitchen,19.42,6,55
+2026-01-30,P008,Coffee Mug,Home & Kitchen,19.41,6,55
+2026-01-01,P011,Desk Organizer,Stationery,17.33,9,35
+2026-01-02,P011,Desk Organizer,Stationery,17.39,9,35
+2026-01-03,P011,Desk Organizer,Stationery,16.74,9,35
+2026-01-04,P011,Desk Organizer,Stationery,17.0,9,35
+2026-01-05,P011,Desk Organizer,Stationery,17.03,9,35
+2026-01-06,P011,Desk Organizer,Stationery,16.9,9,35
+2026-01-07,P011,Desk Organizer,Stationery,17.04,9,35
+2026-01-08,P011,Desk Organizer,Stationery,17.19,9,35
+2026-01-09,P011,Desk Organizer,Stationery,17.26,9,35
+2026-01-10,P011,Desk Organizer,Stationery,16.73,9,35
+2026-01-11,P011,Desk Organizer,Stationery,17.04,9,35
+2026-01-12,P011,Desk Organizer,Stationery,16.92,9,35
+2026-01-13,P011,Desk Organizer,Stationery,16.78,9,35
+2026-01-14,P011,Desk Organizer,Stationery,16.9,9,35
+2026-01-15,P011,Desk Organizer,Stationery,17.01,9,35
+2026-01-16,P011,Desk Organizer,Stationery,17.12,9,35
+2026-01-17,P011,Desk Organizer,Stationery,16.73,9,35
+2026-01-18,P011,Desk Organizer,Stationery,16.96,9,35
+2026-01-19,P011,Desk Organizer,Stationery,16.95,9,35
+2026-01-20,P011,Desk Organizer,Stationery,16.84,9,35
+2026-01-21,P011,Desk Organizer,Stationery,16.87,9,35
+2026-01-22,P011,Desk Organizer,Stationery,16.89,9,35
+2026-01-23,P011,Desk Organizer,Stationery,17.02,9,35
+2026-01-24,P011,Desk Organizer,Stationery,16.75,9,35
+2026-01-25,P011,Desk Organizer,Stationery,16.95,9,35
+2026-01-26,P011,Desk Organizer,Stationery,16.74,9,35
+2026-01-27,P011,Desk Organizer,Stationery,16.66,9,35
+2026-01-28,P011,Desk Organizer,Stationery,16.66,9,35
+2026-01-29,P011,Desk Organizer,Stationery,17.37,9,35
+2026-01-30,P011,Desk Organizer,Stationery,17.6,9,35
+2026-01-01,P012,Scientific Calculator,Stationery,11.76,14,25
+2026-01-02,P012,Scientific Calculator,Stationery,11.56,14,25
+2026-01-03,P012,Scientific Calculator,Stationery,12.1,14,25
+2026-01-04,P012,Scientific Calculator,Stationery,12.23,14,25
+2026-01-05,P012,Scientific Calculator,Stationery,11.97,14,25
+2026-01-06,P012,Scientific Calculator,Stationery,11.88,14,25
+2026-01-07,P012,Scientific Calculator,Stationery,12.22,14,25
+2026-01-08,P012,Scientific Calculator,Stationery,12.35,14,25
+2026-01-09,P012,Scientific Calculator,Stationery,12.28,14,25
+2026-01-10,P012,Scientific Calculator,Stationery,12.76,14,25
+2026-01-11,P012,Scientific Calculator,Stationery,12.82,14,25
+2026-01-12,P012,Scientific Calculator,Stationery,12.39,14,25
+2026-01-13,P012,Scientific Calculator,Stationery,12.48,14,25
+2026-01-14,P012,Scientific Calculator,Stationery,12.54,14,25
+2026-01-15,P012,Scientific Calculator,Stationery,12.59,14,25
+2026-01-16,P012,Scientific Calculator,Stationery,12.54,14,25
+2026-01-17,P012,Scientific Calculator,Stationery,12.84,14,25
+2026-01-18,P012,Scientific Calculator,Stationery,12.91,14,25
+2026-01-19,P012,Scientific Calculator,Stationery,12.8,14,25
+2026-01-20,P012,Scientific Calculator,Stationery,12.86,14,25
+2026-01-21,P012,Scientific Calculator,Stationery,12.95,14,25
+2026-01-22,P012,Scientific Calculator,Stationery,12.94,14,25
+2026-01-23,P012,Scientific Calculator,Stationery,12.76,14,25
+2026-01-24,P012,Scientific Calculator,Stationery,13.06,14,25
+2026-01-25,P012,Scientific Calculator,Stationery,12.92,14,25
+2026-01-26,P012,Scientific Calculator,Stationery,12.88,14,25
+2026-01-27,P012,Scientific Calculator,Stationery,12.89,14,25
+2026-01-28,P012,Scientific Calculator,Stationery,12.8,14,25
+2026-01-29,P012,Scientific Calculator,Stationery,12.83,14,25
+2026-01-30,P012,Scientific Calculator,Stationery,12.78,14,25
+2026-01-01,P013,Shampoo,Personal Care,38.04,6,80
+2026-01-02,P013,Shampoo,Personal Care,37.59,6,80
+2026-01-03,P013,Shampoo,Personal Care,37.24,6,80
+2026-01-04,P013,Shampoo,Personal Care,36.63,6,80
+2026-01-05,P013,Shampoo,Personal Care,37.01,6,80
+2026-01-06,P013,Shampoo,Personal Care,37.01,6,80
+2026-01-07,P013,Shampoo,Personal Care,37.2,6,80
+2026-01-08,P013,Shampoo,Personal Care,36.99,6,80
+2026-01-09,P013,Shampoo,Personal Care,36.77,6,80
+2026-01-10,P013,Shampoo,Personal Care,36.44,6,80
+2026-01-11,P013,Shampoo,Personal Care,35.93,6,80
+2026-01-12,P013,Shampoo,Personal Care,36.32,6,80
+2026-01-13,P013,Shampoo,Personal Care,36.28,6,80
+2026-01-14,P013,Shampoo,Personal Care,36.12,6,80
+2026-01-15,P013,Shampoo,Personal Care,36.68,6,80
+2026-01-16,P013,Shampoo,Personal Care,36.74,6,80
+2026-01-17,P013,Shampoo,Personal Care,36.64,6,80
+2026-01-18,P013,Shampoo,Personal Care,36.44,6,80
+2026-01-19,P013,Shampoo,Personal Care,34.6,6,80
+2026-01-20,P013,Shampoo,Personal Care,34.67,6,80
+2026-01-21,P013,Shampoo,Personal Care,34.78,6,80
+2026-01-22,P013,Shampoo,Personal Care,35.88,6,80
+2026-01-23,P013,Shampoo,Personal Care,35.77,6,80
+2026-01-24,P013,Shampoo,Personal Care,36.14,6,80
+2026-01-25,P013,Shampoo,Personal Care,35.6,6,80
+2026-01-26,P013,Shampoo,Personal Care,33.7,6,80
+2026-01-27,P013,Shampoo,Personal Care,33.92,6,80
+2026-01-28,P013,Shampoo,Personal Care,34.8,6,80
+2026-01-29,P013,Shampoo,Personal Care,36.3,6,80
+2026-01-30,P013,Shampoo,Personal Care,37.48,6,80
+2026-01-01,P014,Face Wash,Personal Care,36.69,6,75
+2026-01-02,P014,Face Wash,Personal Care,36.42,6,75
+2026-01-03,P014,Face Wash,Personal Care,39.04,6,75
+2026-01-04,P014,Face Wash,Personal Care,39.56,6,75
+2026-01-05,P014,Face Wash,Personal Care,35.88,6,75
+2026-01-06,P014,Face Wash,Personal Care,35.74,6,75
+2026-01-07,P014,Face Wash,Personal Care,35.76,6,75
+2026-01-08,P014,Face Wash,Personal Care,35.82,6,75
+2026-01-09,P014,Face Wash,Personal Care,35.81,6,75
+2026-01-10,P014,Face Wash,Personal Care,38.92,6,75
+2026-01-11,P014,Face Wash,Personal Care,39.92,6,75
+2026-01-12,P014,Face Wash,Personal Care,35.5,6,75
+2026-01-13,P014,Face Wash,Personal Care,35.3,6,75
+2026-01-14,P014,Face Wash,Personal Care,35.3,6,75
+2026-01-15,P014,Face Wash,Personal Care,35.17,6,75
+2026-01-16,P014,Face Wash,Personal Care,35.12,6,75
+2026-01-17,P014,Face Wash,Personal Care,39.12,6,75
+2026-01-18,P014,Face Wash,Personal Care,39.78,6,75
+2026-01-19,P014,Face Wash,Personal Care,34.52,6,75
+2026-01-20,P014,Face Wash,Personal Care,34.34,6,75
+2026-01-21,P014,Face Wash,Personal Care,34.42,6,75
+2026-01-22,P014,Face Wash,Personal Care,34.65,6,75
+2026-01-23,P014,Face Wash,Personal Care,34.77,6,75
+2026-01-24,P014,Face Wash,Personal Care,39.7,6,75
+2026-01-25,P014,Face Wash,Personal Care,40.69,6,75
+2026-01-26,P014,Face Wash,Personal Care,35.45,6,75
+2026-01-27,P014,Face Wash,Personal Care,35.32,6,75
+2026-01-28,P014,Face Wash,Personal Care,35.22,6,75
+2026-01-29,P014,Face Wash,Personal Care,35.67,6,75
+2026-01-30,P014,Face Wash,Personal Care,35.86,6,75
+2026-01-01,P015,Hand Sanitizer,Personal Care,36.94,4,90
+2026-01-02,P015,Hand Sanitizer,Personal Care,36.91,4,90
+2026-01-03,P015,Hand Sanitizer,Personal Care,37.11,4,90
+2026-01-04,P015,Hand Sanitizer,Personal Care,37.22,4,90
+2026-01-05,P015,Hand Sanitizer,Personal Care,35.78,4,90
+2026-01-06,P015,Hand Sanitizer,Personal Care,35.88,4,90
+2026-01-07,P015,Hand Sanitizer,Personal Care,35.88,4,90
+2026-01-08,P015,Hand Sanitizer,Personal Care,36.34,4,90
+2026-01-09,P015,Hand Sanitizer,Personal Care,35.93,4,90
+2026-01-10,P015,Hand Sanitizer,Personal Care,35.91,4,90
+2026-01-11,P015,Hand Sanitizer,Personal Care,37.02,4,90
+2026-01-12,P015,Hand Sanitizer,Personal Care,35.65,4,90
+2026-01-13,P015,Hand Sanitizer,Personal Care,35.55,4,90
+2026-01-14,P015,Hand Sanitizer,Personal Care,35.71,4,90
+2026-01-15,P015,Hand Sanitizer,Personal Care,35.78,4,90
+2026-01-16,P015,Hand Sanitizer,Personal Care,35.56,4,90
+2026-01-17,P015,Hand Sanitizer,Personal Care,35.76,4,90
+2026-01-18,P015,Hand Sanitizer,Personal Care,37.18,4,90
+2026-01-19,P015,Hand Sanitizer,Personal Care,33.82,4,90
+2026-01-20,P015,Hand Sanitizer,Personal Care,33.92,4,90
+2026-01-21,P015,Hand Sanitizer,Personal Care,34.23,4,90
+2026-01-22,P015,Hand Sanitizer,Personal Care,34.58,4,90
+2026-01-23,P015,Hand Sanitizer,Personal Care,34.92,4,90
+2026-01-24,P015,Hand Sanitizer,Personal Care,35.63,4,90
+2026-01-25,P015,Hand Sanitizer,Personal Care,36.94,4,90
+2026-01-26,P015,Hand Sanitizer,Personal Care,33.9,4,90
+2026-01-27,P015,Hand Sanitizer,Personal Care,33.74,4,90
+2026-01-28,P015,Hand Sanitizer,Personal Care,33.98,4,90
+2026-01-29,P015,Hand Sanitizer,Personal Care,34.19,4,90
+2026-01-30,P015,Hand Sanitizer,Personal Care,34.2,4,90
+2026-01-01,P016,Body Lotion,Personal Care,21.25,8,50
+2026-01-02,P016,Body Lotion,Personal Care,20.94,8,50
+2026-01-03,P016,Body Lotion,Personal Care,23.66,8,50
+2026-01-04,P016,Body Lotion,Personal Care,23.76,8,50
+2026-01-05,P016,Body Lotion,Personal Care,20.34,8,50
+2026-01-06,P016,Body Lotion,Personal Care,20.56,8,50
+2026-01-07,P016,Body Lotion,Personal Care,20.77,8,50
+2026-01-08,P016,Body Lotion,Personal Care,20.71,8,50
+2026-01-09,P016,Body Lotion,Personal Care,20.97,8,50
+2026-01-10,P016,Body Lotion,Personal Care,24.18,8,50
+2026-01-11,P016,Body Lotion,Personal Care,24.38,8,50
+2026-01-12,P016,Body Lotion,Personal Care,21.1,8,50
+2026-01-13,P016,Body Lotion,Personal Care,21.32,8,50
+2026-01-14,P016,Body Lotion,Personal Care,21.54,8,50
+2026-01-15,P016,Body Lotion,Personal Care,21.6,8,50
+2026-01-16,P016,Body Lotion,Personal Care,21.72,8,50
+2026-01-17,P016,Body Lotion,Personal Care,24.26,8,50
+2026-01-18,P016,Body Lotion,Personal Care,24.37,8,50
+2026-01-19,P016,Body Lotion,Personal Care,21.07,8,50
+2026-01-20,P016,Body Lotion,Personal Care,21.14,8,50
+2026-01-21,P016,Body Lotion,Personal Care,21.26,8,50
+2026-01-22,P016,Body Lotion,Personal Care,21.32,8,50
+2026-01-23,P016,Body Lotion,Personal Care,21.48,8,50
+2026-01-24,P016,Body Lotion,Personal Care,23.72,8,50
+2026-01-25,P016,Body Lotion,Personal Care,23.76,8,50
+2026-01-26,P016,Body Lotion,Personal Care,21.08,8,50
+2026-01-27,P016,Body Lotion,Personal Care,21.23,8,50
+2026-01-28,P016,Body Lotion,Personal Care,21.32,8,50
+2026-01-29,P016,Body Lotion,Personal Care,21.35,8,50
+2026-01-30,P016,Body Lotion,Personal Care,21.39,8,50
+2026-01-01,P017,Earphones,Electronics,16.77,10,35
+2026-01-02,P017,Earphones,Electronics,16.7,10,35
+2026-01-03,P017,Earphones,Electronics,16.76,10,35
+2026-01-04,P017,Earphones,Electronics,16.82,10,35
+2026-01-05,P017,Earphones,Electronics,16.43,10,35
+2026-01-06,P017,Earphones,Electronics,16.28,10,35
+2026-01-07,P017,Earphones,Electronics,16.34,10,35
+2026-01-08,P017,Earphones,Electronics,16.4,10,35
+2026-01-09,P017,Earphones,Electronics,16.24,10,35
+2026-01-10,P017,Earphones,Electronics,16.34,10,35
+2026-01-11,P017,Earphones,Electronics,16.1,10,35
+2026-01-12,P017,Earphones,Electronics,16.36,10,35
+2026-01-13,P017,Earphones,Electronics,16.04,10,35
+2026-01-14,P017,Earphones,Electronics,16.12,10,35
+2026-01-15,P017,Earphones,Electronics,16.27,10,35
+2026-01-16,P017,Earphones,Electronics,16.24,10,35
+2026-01-17,P017,Earphones,Electronics,16.34,10,35
+2026-01-18,P017,Earphones,Electronics,16.12,10,35
+2026-01-19,P017,Earphones,Electronics,16.36,10,35
+2026-01-20,P017,Earphones,Electronics,16.28,10,35
+2026-01-21,P017,Earphones,Electronics,16.18,10,35
+2026-01-22,P017,Earphones,Electronics,16.26,10,35
+2026-01-23,P017,Earphones,Electronics,16.26,10,35
+2026-01-24,P017,Earphones,Electronics,16.4,10,35
+2026-01-25,P017,Earphones,Electronics,16.18,10,35
+2026-01-26,P017,Earphones,Electronics,16.52,10,35
+2026-01-27,P017,Earphones,Electronics,16.28,10,35
+2026-01-28,P017,Earphones,Electronics,16.31,10,35
+2026-01-29,P017,Earphones,Electronics,16.56,10,35
+2026-01-30,P017,Earphones,Electronics,16.48,10,35
+2026-01-01,P009,Notebook,Stationery,61.15,5,120
+2026-01-02,P009,Notebook,Stationery,61.08,5,120
+2026-01-03,P009,Notebook,Stationery,62.8,5,120
+2026-01-04,P009,Notebook,Stationery,62.64,5,120
+2026-01-05,P009,Notebook,Stationery,59.97,5,120
+2026-01-06,P009,Notebook,Stationery,59.66,5,120
+2026-01-07,P009,Notebook,Stationery,60.02,5,120
+2026-01-08,P009,Notebook,Stationery,61.14,5,120
+2026-01-09,P009,Notebook,Stationery,60.62,5,120
+2026-01-10,P009,Notebook,Stationery,62.5,5,120
+2026-01-11,P009,Notebook,Stationery,62.7,5,120
+2026-01-12,P009,Notebook,Stationery,60.48,5,120
+2026-01-13,P009,Notebook,Stationery,60.52,5,120
+2026-01-14,P009,Notebook,Stationery,60.63,5,120
+2026-01-15,P009,Notebook,Stationery,61.31,5,120
+2026-01-16,P009,Notebook,Stationery,60.82,5,120
+2026-01-17,P009,Notebook,Stationery,62.66,5,120
+2026-01-18,P009,Notebook,Stationery,62.48,5,120
+2026-01-19,P009,Notebook,Stationery,60.87,5,120
+2026-01-20,P009,Notebook,Stationery,60.66,5,120
+2026-01-21,P009,Notebook,Stationery,60.92,5,120
+2026-01-22,P009,Notebook,Stationery,61.82,5,120
+2026-01-23,P009,Notebook,Stationery,61.33,5,120
+2026-01-24,P009,Notebook,Stationery,62.92,5,120
+2026-01-25,P009,Notebook,Stationery,62.54,5,120
+2026-01-26,P009,Notebook,Stationery,60.99,5,120
+2026-01-27,P009,Notebook,Stationery,60.7,5,120
+2026-01-28,P009,Notebook,Stationery,60.72,5,120
+2026-01-29,P009,Notebook,Stationery,61.5,5,120
+2026-01-30,P009,Notebook,Stationery,61.37,5,120
+2026-01-01,P020,Toothbrush Pack,Personal Care,44.65,5,95
+2026-01-02,P020,Toothbrush Pack,Personal Care,47.38,5,95
+2026-01-03,P020,Toothbrush Pack,Personal Care,48.3,5,95
+2026-01-04,P020,Toothbrush Pack,Personal Care,49.32,5,95
+2026-01-05,P020,Toothbrush Pack,Personal Care,46.18,5,95
+2026-01-06,P020,Toothbrush Pack,Personal Care,45.56,5,95
+2026-01-07,P020,Toothbrush Pack,Personal Care,46.38,5,95
+2026-01-08,P020,Toothbrush Pack,Personal Care,47.0,5,95
+2026-01-09,P020,Toothbrush Pack,Personal Care,47.86,5,95
+2026-01-10,P020,Toothbrush Pack,Personal Care,48.7,5,95
+2026-01-11,P020,Toothbrush Pack,Personal Care,48.95,5,95
+2026-01-12,P020,Toothbrush Pack,Personal Care,45.62,5,95
+2026-01-13,P020,Toothbrush Pack,Personal Care,45.18,5,95
+2026-01-14,P020,Toothbrush Pack,Personal Care,46.43,5,95
+2026-01-15,P020,Toothbrush Pack,Personal Care,47.1,5,95
+2026-01-16,P020,Toothbrush Pack,Personal Care,47.54,5,95
+2026-01-17,P020,Toothbrush Pack,Personal Care,48.42,5,95
+2026-01-18,P020,Toothbrush Pack,Personal Care,48.92,5,95
+2026-01-19,P020,Toothbrush Pack,Personal Care,45.4,5,95
+2026-01-20,P020,Toothbrush Pack,Personal Care,44.7,5,95
+2026-01-21,P020,Toothbrush Pack,Personal Care,45.68,5,95
+2026-01-22,P020,Toothbrush Pack,Personal Care,46.3,5,95
+2026-01-23,P020,Toothbrush Pack,Personal Care,46.94,5,95
+2026-01-24,P020,Toothbrush Pack,Personal Care,47.72,5,95
+2026-01-25,P020,Toothbrush Pack,Personal Care,48.17,5,95
+2026-01-26,P020,Toothbrush Pack,Personal Care,45.72,5,95
+2026-01-27,P020,Toothbrush Pack,Personal Care,45.22,5,95
+2026-01-28,P020,Toothbrush Pack,Personal Care,46.56,5,95
+2026-01-29,P020,Toothbrush Pack,Personal Care,46.29,5,95
+2026-01-30,P020,Toothbrush Pack,Personal Care,46.66,5,95

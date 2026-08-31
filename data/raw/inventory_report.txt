@@ -1,0 +1,39 @@
+INVENTORY DEMAND FORECASTING REPORT
+=============================================
+
+1. PROJECT SUMMARY
+------------------------------
+Products analyzed: 20
+Forecast period: 30 days
+Total forecast demand: 16705.88 units
+Total recommended stock: 3806.11 units
+
+2. HIGHEST DEMAND PRODUCTS
+------------------------------
+Notebook: 61.32 units/day
+Ballpoint Pen Pack: 53.45 units/day
+Sticky Notes: 50.42 units/day
+Toothbrush Pack: 46.83 units/day
+Water Bottle: 36.79 units/day
+
+3. HIGHEST STOCK REQUIREMENTS
+------------------------------
+Notebook: 314.60 units
+Toothbrush Pack: 246.60 units
+Face Wash: 244.14 units
+Shampoo: 228.24 units
+Ballpoint Pen Pack: 221.44 units
+
+4. DEMAND CATEGORY SUMMARY
+------------------------------
+MEDIUM DEMAND: 8 products
+LOW DEMAND: 8 products
+HIGH DEMAND: 4 products
+
+5. RECOMMENDATIONS
+------------------------------
+• Maintain higher inventory levels for high-demand products.
+• Monitor products with high lead-time demand.
+• Keep safety stock to reduce the risk of stockouts.
+• Review reorder levels regularly using updated forecasts.
+• Prioritize Notebook, Ballpoint Pen Pack, Sticky Notes and Toothbrush Pack because they have the highest predicted demand.

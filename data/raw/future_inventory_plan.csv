@@ -1,0 +1,21 @@
+product_id,product_name,category,lead_time_days,reorder_point,average_daily_demand,total_forecast_demand,maximum_daily_demand,lead_time_demand,safety_stock,recommended_stock_level,inventory_action
+P009,Notebook,Stationery,5,120,61.32,1839.52,62.92,306.59,8.01,314.6,HIGH DEMAND
+P010,Ballpoint Pen Pack,Stationery,4,100,53.45,1603.36,55.36,213.78,7.66,221.44,HIGH DEMAND
+P019,Sticky Notes,Stationery,4,110,50.42,1512.54,51.82,201.67,5.61,207.28,HIGH DEMAND
+P020,Toothbrush Pack,Personal Care,5,95,46.83,1404.85,49.32,234.14,12.46,246.6,HIGH DEMAND
+P006,Water Bottle,Home & Kitchen,5,70,36.79,1103.79,40.38,183.96,17.94,201.9,MEDIUM DEMAND
+P014,Face Wash,Personal Care,6,75,36.52,1095.46,40.69,219.09,25.05,244.14,MEDIUM DEMAND
+P013,Shampoo,Personal Care,6,80,36.19,1085.71,38.04,217.14,11.1,228.24,MEDIUM DEMAND
+P015,Hand Sanitizer,Personal Care,4,90,35.54,1066.16,37.22,142.15,6.73,148.88,MEDIUM DEMAND
+P004,Phone Charger,Electronics,7,60,27.61,828.23,29.33,193.25,12.06,205.31,MEDIUM DEMAND
+P001,Wireless Mouse,Electronics,7,50,23.42,702.49,26.22,163.91,19.63,183.54,MEDIUM DEMAND
+P016,Body Lotion,Personal Care,8,50,21.92,657.55,24.38,175.35,19.69,195.04,MEDIUM DEMAND
+P008,Coffee Mug,Home & Kitchen,6,55,20.61,618.37,23.6,123.67,17.93,141.6,MEDIUM DEMAND
+P011,Desk Organizer,Stationery,9,35,16.98,509.37,17.6,152.81,5.59,158.4,LOW DEMAND
+P017,Earphones,Electronics,10,35,16.36,490.74,16.82,163.58,4.62,168.2,LOW DEMAND
+P005,LED Desk Lamp,Home & Kitchen,10,30,14.01,420.32,14.93,140.11,9.19,149.3,LOW DEMAND
+P002,USB Keyboard,Electronics,10,40,13.4,402.06,14.47,134.02,10.68,144.7,LOW DEMAND
+P012,Scientific Calculator,Stationery,14,25,12.56,376.69,13.06,175.79,7.05,182.84,LOW DEMAND
+P007,Storage Box Set,Home & Kitchen,12,35,11.42,342.69,12.18,137.08,9.08,146.16,LOW DEMAND
+P003,Bluetooth Speaker,Electronics,14,25,10.91,327.43,11.69,152.8,10.86,163.66,LOW DEMAND
+P018,Electric Kettle,Home & Kitchen,14,20,10.62,318.55,11.02,148.66,5.62,154.28,LOW DEMAND
