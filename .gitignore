@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Intermediate datasets
+data/raw/demand_predictions.csv
+data/raw/inventory_sales_features.csv
+data/raw/ml_features.csv
+data/raw/ml_features_clean.csv
+data/raw/test.csv
+data/raw/train.csv
